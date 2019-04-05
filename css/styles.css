@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+.green-text {
+    color: green; 
+}
+
+#width-300{
+    width: 300px;
+}
+
+.border-blue{
+    border: 1px solid blue;
+}
