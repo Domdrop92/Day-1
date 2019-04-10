@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+
+.green-text {
+    color: red; 
+}
+
+#width-300{
+    width: 300px;
+}
+
+.border-blue{
+    border: 1px solid blue;
+}
+li {
+    font: 24px;
+    padding: 10px;
+    text-align: center;
+    border: 1px dotted;
+    margin: 10px;
+    background-color: yellow;
+
+}
